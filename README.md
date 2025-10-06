@@ -39,9 +39,6 @@ Thread-Level-Parallelism-TLP-in-Shared-Memory-Multiprocessors/
 ├── daxpy_multi.c            # Multi-threaded DAXPY implementation
 ├── hello.c                  # Simple test program
 ├── multicore_config.py      # Gem5 configuration script
-├── gem5/                    # Gem5 simulator files
-│   └── m5ops.h             # Gem5 operation headers
-└── results/                 # Simulation results (generated)
 ```
 
 ### Core Files Description
